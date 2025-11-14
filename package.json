@@ -1,0 +1,26 @@
+{
+  "name": "soundclient",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "SoundCloud for Desktop",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droptablemustafa/soundclient.git"
+  },
+  "author": "droptablemustafa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/droptablemustafa/soundclient/issues"
+  },
+  "homepage": "https://github.com/droptablemustafa/soundclient#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "electron": "^39.2.0",
+    "typescript": "^5.9.3"
+  }
+}
