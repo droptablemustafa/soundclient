@@ -1,5 +1,6 @@
 {
   "name": "soundclient",
+  "productName": "SoundClient",
   "type": "module",
   "version": "0.0.1",
   "description": "SoundCloud for Desktop",
